@@ -1,8 +1,10 @@
-package com.example.presensi;
+package com.example.presensi.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.presensi.R;
 
 public class MainActivity extends AppCompatActivity {
 
